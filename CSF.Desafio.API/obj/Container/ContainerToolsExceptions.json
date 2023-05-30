@@ -1,0 +1,1 @@
+[{"ContainerToolsException.Message":"O usuário atual não está no grupo \"Usuários do Docker\". Adicione-se ao grupo \"Usuários do Docker\" e, em seguida, faça logoff e logon novamente no Windows.","ContainerToolsException.ErrorCode":"CTC1010","ContainerToolsException.StackTrace":"","ContainerToolsException.HResult":"-2146233088"}]
